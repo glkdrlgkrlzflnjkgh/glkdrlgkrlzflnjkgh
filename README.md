@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm glkdrlgkrlzflnjkgh!
-A random FOSS developer.
+## I'm pretty much a random FOSS developer who goofs around and does random stuff.
 
 ## Some cool stuff
 1. I'm neurodiverse!
